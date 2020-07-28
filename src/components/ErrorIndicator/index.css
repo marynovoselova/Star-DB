@@ -1,0 +1,21 @@
+.error-indicator {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: lightgrey;
+}
+
+.error-indicator img {
+    width: 10%;
+    margin-bottom: 1rem;
+}
+
+.error-indicator .boom {
+    font-size: 1.7rem;
+}
+
+.boom {
+    color: darkorange;
+    /*color: #953143;*/
+}

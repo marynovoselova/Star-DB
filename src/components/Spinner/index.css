@@ -1,0 +1,52 @@
+@keyframes ldio-hqvu8j217zv {
+    0% {
+        top: 71.05px;
+        left: 71.05px;
+        width: 0;
+        height: 0;
+        opacity: 1;
+    }
+    100% {
+        top: 13.775px;
+        left: 13.775px;
+        width: 114.55px;
+        height: 114.55px;
+        opacity: 0;
+    }
+}
+
+.ldio-hqvu8j217zv div {
+    position: absolute;
+    border-width: 1.45px;
+    border-style: solid;
+    opacity: 1;
+    border-radius: 50%;
+    animation: ldio-hqvu8j217zv 1.6129032258064513s cubic-bezier(0,0.2,0.8,1) infinite;
+}
+
+.ldio-hqvu8j217zv div:nth-child(1) {
+    border-color: #0f6d50
+}
+
+.ldio-hqvu8j217zv div:nth-child(2) {
+    border-color: #00bc8c;
+    animation-delay: -0.8064516129032256s;
+}
+
+.loadingio-spinner-ripple-rlakr04kmp {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    display: inline-block;
+    overflow: hidden;
+    background: #303030;
+}
+.ldio-hqvu8j217zv {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform: translateZ(0) scale(1);
+    backface-visibility: hidden;
+    transform-origin: 0 0;
+}
+.ldio-hqvu8j217zv div { box-sizing: content-box; }
